@@ -1,0 +1,12 @@
+E:\Code\C#\KAHD\KAHD\bin\Debug\KAHD.exe.config
+E:\Code\C#\KAHD\KAHD\bin\Debug\KAHD.exe
+E:\Code\C#\KAHD\KAHD\bin\Debug\KAHD.pdb
+E:\Code\C#\KAHD\KAHD\obj\Debug\KAHD.csproj.AssemblyReference.cache
+E:\Code\C#\KAHD\KAHD\obj\Debug\KAHD.Properties.Resources.resources
+E:\Code\C#\KAHD\KAHD\obj\Debug\KAHD.csproj.GenerateResource.cache
+E:\Code\C#\KAHD\KAHD\obj\Debug\KAHD.csproj.CoreCompileInputs.cache
+E:\Code\C#\KAHD\KAHD\obj\Debug\KAHD.exe
+E:\Code\C#\KAHD\KAHD\obj\Debug\KAHD.pdb
+E:\Code\C#\KAHD\KAHD\obj\Debug\KAHD.Form2.resources
+E:\Code\C#\KAHD\KAHD\obj\Debug\KAHD.Form1.resources
+E:\Code\C#\KAHD\KAHD\obj\Debug\KAHD.Form3.resources
